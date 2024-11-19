@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muninntech
-- 👀 I’m interested in all things IT and Cyber Security
-- 🌱 I’m currently learning AWS and Azure Security as well as Web App Security.
+- 👀 I’m interested in all things IT, Cloud and Cyber Security
+- 🌱 I’m currently learning AWS and Cybersecurity.
 
 <!---
 muninntech/muninntech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
